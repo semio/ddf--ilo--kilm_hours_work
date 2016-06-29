@@ -1,0 +1,5 @@
+concept,name,concept_type
+name,Name,string
+year,Year,time
+country,Country,entity_domain
+annual_number_of_hours_actually_worked_per_person,Annual number of hours actually worked per person,measure
